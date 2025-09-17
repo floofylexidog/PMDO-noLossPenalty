@@ -4,7 +4,7 @@
   <Description>Prevents non-stolen items from being lost when failing a dungeon.</Description>
   <Namespace>nolosspenalty</Namespace>
   <UUID>6BDE816A-AF97-4311-8D0B-7C691FF0E243</UUID>
-  <Version>0.1</Version>
+  <Version>0.0</Version>
   <GameVersion>0.0</GameVersion>
   <ModType>Mod</ModType>
   <Relationships />
